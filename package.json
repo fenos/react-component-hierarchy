@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/bpxl-labs/react-component-hierarchy/issues"
   },
-  "main": "bin/rch.js",
+  "main": "rch.js",
   "bin": {
     "rch": "bin/rch.js"
   },
